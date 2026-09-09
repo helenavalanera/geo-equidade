@@ -1,0 +1,13 @@
+﻿Bairro,status,Área (km²),Total de Nós (Vias),Total de Serviços,erro,Razão Serviços/Nó
+Centro Histórico,sucesso,2.42,980,1440,,1.47
+Santana,sucesso,1.53,381,301,,0.79
+Menino-Deus,sucesso,2.3,772,400,,0.52
+Petrópolis,sucesso,3.36,644,206,,0.32
+Partenon,sucesso,6.33,1629,235,,0.14
+Sarandi,sucesso,8.99,2159,262,,0.12
+Santa Rosa de Lima,sucesso,5.47,1078,107,,0.1
+Restinga,sucesso,20.09,2353,179,,0.08
+Vila Nova,sucesso,12.05,1389,102,,0.07
+Jardim Leopoldina,sucesso,1.29,361,26,,0.07
+Mário Quintana,sucesso,7.52,1583,84,,0.05
+Lomba do Pinheiro,sucesso,31.16,2039,85,,0.04

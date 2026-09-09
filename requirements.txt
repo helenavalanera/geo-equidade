@@ -1,0 +1,9 @@
+geopandas
+pyrosm
+osmnx
+networkx
+pandas
+matplotlib
+seaborn
+folium
+requests
