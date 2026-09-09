@@ -23,3 +23,7 @@ atualizar os resultados.
 
 Este arquivo CSV é um dado derivado de bases sob ODbL (OpenStreetMap). A
 distribuição preserva a atribuição acima, conforme exigido pela licença.
+
+## Versionamento dos dados
+
+Os resultados deste repositório correspondem ao extrato do OpenStreetMap identificado neste projeto e à data de sua execução. Como o OSM é continuamente atualizado, reexecuções em outras datas podem apresentar pequenas variações nas contagens de feições e nos indicadores derivados. Esses resultados não devem ser comparados como se fossem uma base estática.
