@@ -1,7 +1,3 @@
 notebooks/brazil-latest.osm.pbf
 notebooks/cache/
-notebooks/malha_rs_2010/
-*.zip
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
+.DS_Store
